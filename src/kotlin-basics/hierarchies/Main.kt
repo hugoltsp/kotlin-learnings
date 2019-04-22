@@ -2,7 +2,6 @@ package hierarchies
 
 import `kotlin-basics`.hierarchies.Car
 import `kotlin-basics`.hierarchies.Cow
-import `kotlin-basics`.hierarchies.Mooable
 
 fun main() {
 
@@ -13,4 +12,5 @@ fun main() {
     var m = Cow();
 
     m.moo();
+
 }
