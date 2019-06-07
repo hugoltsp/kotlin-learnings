@@ -8,6 +8,6 @@ fun main() {
 
     println(user.name)
 
-    //uval classWithNoConstructor = ClassWithNoConstructor()
+    //val classWithNoConstructor = ClassWithNoConstructor()
 
 }
