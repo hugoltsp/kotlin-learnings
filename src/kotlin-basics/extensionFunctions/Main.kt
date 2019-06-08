@@ -1,6 +1,6 @@
 package extensionFunctions
 
 fun main() {
-    val countOcurrences = "Mendes".countOcurrences('e')
+    val countOcurrences = "Jailson Mendes".countOcurrences('e')
     println(countOcurrences)
 }
